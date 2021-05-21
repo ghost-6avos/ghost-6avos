@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-ghost-6avos/ghost-6avos is a ✨ special gay-boy ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ghost-6avos/ghost-6avos is a ✨ special boy ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
